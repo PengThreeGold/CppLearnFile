@@ -1,4 +1,5 @@
-# C++学习文件
+# C++基础知识学习及案例分享
+# 适用于C/C++初学、进阶复习等编程小白食用
 ## [一、基础知识](https://github.com/PengThreeGold/CppLearnFile/tree/main/CPPLearn/CppBasic)
 + [类的基本定义](https://github.com/PengThreeGold/CppLearnFile/blob/main/CPPLearn/CppBasic/01class.cpp)
 + [命名空间与输入输出](https://github.com/PengThreeGold/CppLearnFile/blob/main/CPPLearn/CppBasic/02namespace&io.cpp)
